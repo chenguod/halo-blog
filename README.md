@@ -11,7 +11,7 @@
 
 ### 最新
 
-* [ Bolo 博客系统已部署成功。](http://localhost:8080/hello-bolo)
+* [ halo 博客系统已部署成功。](https://www.chenmx.net)
 
 
 
