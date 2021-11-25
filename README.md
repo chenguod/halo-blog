@@ -1,4 +1,4 @@
-<p align="center"><img alt="晓果冻 的个人博客" src="https://cdn.jsdelivr.net/gh/chenguod/picture/202111251233411.png"></p><h2 align="center">
+<p align="center"><img alt="晓果冻 的个人博客" src="https://cdn.jsdelivr.net/gh/chenguod/halo-blog/IMG_0379.PNG"></p><h2 align="center">
 
 晓果冻 的个人博客
 </h2>
