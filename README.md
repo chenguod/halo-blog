@@ -11,16 +11,11 @@
 
 ### 最新
 
-* [菠萝 halo 博客系统已部署成功。](http://localhost:8080/hello-halo)
+* [ halo 博客系统已部署成功。](http://localhost:8080/hello-halo)
 
 
 
 ---
 
 本仓库通过 [halo-executor](https://github.com/chenguod/halo-executor) 自动进行同步更新 ❤️ 
-
-
-## 鸣谢
-
-https://github.com/adlered/halo-solo
 
