@@ -11,6 +11,7 @@
 
 ### 最新
 
+* [基于docker实现mysql主从复制.md](https://www.chenmx.net?p=342)
 * [halo博客自动备份到GitHub](https://www.chenmx.net?p=341)
 * [利用docker搭建ELK.md](https://www.chenmx.net?p=340)
 * [SpringBoot打包成jar之后在Linux执行，然后删除jar，会发生什么?](https://www.chenmx.net?p=335)
