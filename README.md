@@ -11,9 +11,12 @@
 
 ### 最新
 
+* [记录一次启动项目时的错误Error creating bean with name 'mappingJackson2HttpMessageConverter](https://www.chenmx.net?p=179)
+* [nacos总是加载本地的nacos，而不是加载配置文件的地址](https://www.chenmx.net?p=306)
+* [利用docker搭建ELK.md](https://www.chenmx.net?p=340)
+* [留言板](https://www.chenmx.net?p=343)
 * [基于docker实现mysql主从复制.md](https://www.chenmx.net?p=342)
 * [halo博客自动备份到GitHub](https://www.chenmx.net?p=341)
-* [利用docker搭建ELK.md](https://www.chenmx.net?p=340)
 * [SpringBoot打包成jar之后在Linux执行，然后删除jar，会发生什么?](https://www.chenmx.net?p=335)
 * [Java实现友链管理的思路及demo](https://www.chenmx.net?p=337)
 * [添加Content Security Policy请求头](https://www.chenmx.net?p=339)
@@ -35,7 +38,6 @@
 * [Array相关LeetCode题目笔记](https://www.chenmx.net?p=309)
 * [SpringBoot配置文件优先级及踩坑](https://www.chenmx.net?p=312)
 * [使用CentOS7安装Jenkins](https://www.chenmx.net?p=178)
-* [记录一次启动项目时的错误Error creating bean with name 'mappingJackson2HttpMessageConverter](https://www.chenmx.net?p=179)
 * [Springboot项目引入xxl-job](https://www.chenmx.net?p=180)
 * [CODING踩坑记](https://www.chenmx.net?p=181)
 * [使用kubeadm快速部署一个K8s集群](https://www.chenmx.net?p=182)
@@ -106,7 +108,6 @@
 * [MySQL事务学习](https://www.chenmx.net?p=319)
 * [站长工具使用](https://www.chenmx.net?p=273)
 * [SpringBoot自动装配探索](https://www.chenmx.net?p=311)
-* [nacos总是加载本地的nacos，而不是加载配置文件的地址](https://www.chenmx.net?p=306)
 * [记录前端开发过程中遇到的一个问题](https://www.chenmx.net?p=305)
 * [halo博客主题美化](https://www.chenmx.net?p=132)
 * [统计](https://www.chenmx.net?p=243)
