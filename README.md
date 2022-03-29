@@ -11,6 +11,8 @@
 
 ### 最新
 
+* [JVM-程序计数器再学习.md](https://www.chenmx.net?p=345)
+* [JVM本地方法栈再学习.md](https://www.chenmx.net?p=346)
 * [记录一次启动项目时的错误Error creating bean with name 'mappingJackson2HttpMessageConverter](https://www.chenmx.net?p=179)
 * [nacos总是加载本地的nacos，而不是加载配置文件的地址](https://www.chenmx.net?p=306)
 * [利用docker搭建ELK.md](https://www.chenmx.net?p=340)
