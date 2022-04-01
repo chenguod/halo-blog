@@ -11,14 +11,14 @@
 
 ### 最新
 
+* [JVM---分派学习](https://www.chenmx.net?p=348)
+* [JVM-Java虚拟机栈再学习](https://www.chenmx.net?p=349)
+* [JVM本地方法栈再学习](https://www.chenmx.net?p=346)
+* [JVM-程序计数器再学习](https://www.chenmx.net?p=345)
 * [JVM运行时数据区-方法区](https://www.chenmx.net?p=133)
 * [JVM运行时数据区-堆](https://www.chenmx.net?p=130)
 * [JVM-逃逸分析](https://www.chenmx.net?p=350)
-* [JVM-程序计数器再学习.md](https://www.chenmx.net?p=345)
-* [JVM-Java虚拟机栈再学习](https://www.chenmx.net?p=349)
-* [JVM---分派学习](https://www.chenmx.net?p=348)
 * [测试局部变量区垃圾回收](https://www.chenmx.net?p=347)
-* [JVM本地方法栈再学习.md](https://www.chenmx.net?p=346)
 * [记录一次启动项目时的错误Error creating bean with name 'mappingJackson2HttpMessageConverter](https://www.chenmx.net?p=179)
 * [nacos总是加载本地的nacos，而不是加载配置文件的地址](https://www.chenmx.net?p=306)
 * [利用docker搭建ELK.md](https://www.chenmx.net?p=340)
