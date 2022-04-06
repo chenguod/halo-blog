@@ -11,6 +11,9 @@
 
 ### 最新
 
+* [JVM-编译过程学习](https://www.chenmx.net?p=353)
+* [自动拆箱、装箱](https://www.chenmx.net?p=352)
+* [Minor GC过程](https://www.chenmx.net?p=351)
 * [JVM-年轻代、老年代学习](https://www.chenmx.net?p=330)
 * [JVM-常量池](https://www.chenmx.net?p=142)
 * [JVM运行时数据区-方法区](https://www.chenmx.net?p=133)
