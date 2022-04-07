@@ -11,6 +11,9 @@
 
 ### 最新
 
+* [垃圾回收器](https://www.chenmx.net?p=328)
+* [垃圾回收算法学习](https://www.chenmx.net?p=332)
+* [垃圾收集算法](https://www.chenmx.net?p=354)
 * [JVM-编译过程学习](https://www.chenmx.net?p=353)
 * [自动拆箱、装箱](https://www.chenmx.net?p=352)
 * [Minor GC过程](https://www.chenmx.net?p=351)
@@ -37,7 +40,6 @@
 * [elasticsearch学习（二）](https://www.chenmx.net?p=334)
 * [elaticsearch学习](https://www.chenmx.net?p=333)
 * [HashMap源码学习](https://www.chenmx.net?p=331)
-* [垃圾回收算法学习](https://www.chenmx.net?p=332)
 * [JVM学习-虚拟机栈局部变量表和常量池](https://www.chenmx.net?p=329)
 * [ArrayList和Vector异同点](https://www.chenmx.net?p=313)
 * [ArrayList源码学习](https://www.chenmx.net?p=314)
@@ -86,7 +88,6 @@
 * [windows10忘记mysql密码的解决办法](https://www.chenmx.net?p=19)
 * [nextCloud配置redis缓存](https://www.chenmx.net?p=22)
 * [每次重启电脑后，虚拟机就Ping不通的解决办法](https://www.chenmx.net?p=25)
-* [垃圾回收器](https://www.chenmx.net?p=328)
 * [select2的使用](https://www.chenmx.net?p=5)
 * [HashSet源码学习](https://www.chenmx.net?p=320)
 * [docker中安装redis](https://www.chenmx.net?p=20)
