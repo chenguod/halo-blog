@@ -11,6 +11,9 @@
 
 ### 最新
 
+* [类加载机制](https://www.chenmx.net?p=355)
+* [halo博客自动备份到GitHub](https://www.chenmx.net?p=341)
+* [云服务器部署k3s](https://www.chenmx.net?p=308)
 * [垃圾回收器](https://www.chenmx.net?p=328)
 * [垃圾回收算法学习](https://www.chenmx.net?p=332)
 * [垃圾收集算法](https://www.chenmx.net?p=354)
@@ -32,7 +35,6 @@
 * [利用docker搭建ELK.md](https://www.chenmx.net?p=340)
 * [留言板](https://www.chenmx.net?p=343)
 * [基于docker实现mysql主从复制.md](https://www.chenmx.net?p=342)
-* [halo博客自动备份到GitHub](https://www.chenmx.net?p=341)
 * [SpringBoot打包成jar之后在Linux执行，然后删除jar，会发生什么?](https://www.chenmx.net?p=335)
 * [Java实现友链管理的思路及demo](https://www.chenmx.net?p=337)
 * [添加Content Security Policy请求头](https://www.chenmx.net?p=339)
@@ -110,7 +112,6 @@
 * [启动jenkins时报错找不到java路径](https://www.chenmx.net?p=177)
 * [MyBaits多数据源配置](https://www.chenmx.net?p=336)
 * [获取百度统计ACCESS_TOKEN](https://www.chenmx.net?p=242)
-* [云服务器部署k3s](https://www.chenmx.net?p=308)
 * [MySQL索引优化之分页探索](https://www.chenmx.net?p=325)
 * [MySQL索引优化order by与group by](https://www.chenmx.net?p=324)
 * [MySQL索引下推探索](https://www.chenmx.net?p=323)
