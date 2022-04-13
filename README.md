@@ -11,6 +11,8 @@
 
 ### 最新
 
+* [Spring加载Bean的几种方式](https://www.chenmx.net?p=358)
+* [垃圾回收器](https://www.chenmx.net?p=328)
 * [MySQL索引原理探索](https://www.chenmx.net?p=310)
 * [LinkedHashMap学习](https://www.chenmx.net?p=357)
 * [HashMap相关问题](https://www.chenmx.net?p=356)
@@ -18,7 +20,6 @@
 * [类加载机制](https://www.chenmx.net?p=355)
 * [halo博客自动备份到GitHub](https://www.chenmx.net?p=341)
 * [云服务器部署k3s](https://www.chenmx.net?p=308)
-* [垃圾回收器](https://www.chenmx.net?p=328)
 * [垃圾回收算法学习](https://www.chenmx.net?p=332)
 * [垃圾收集算法](https://www.chenmx.net?p=354)
 * [JVM-编译过程学习](https://www.chenmx.net?p=353)
