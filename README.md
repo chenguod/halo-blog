@@ -11,6 +11,8 @@
 
 ### 最新
 
+* [k3s重启后无法使用](https://www.chenmx.net?p=360)
+* [记录一次nginx不生效的问题](https://www.chenmx.net?p=359)
 * [HashMap源码学习](https://www.chenmx.net?p=331)
 * [Spring加载Bean的几种方式](https://www.chenmx.net?p=358)
 * [垃圾回收器](https://www.chenmx.net?p=328)
