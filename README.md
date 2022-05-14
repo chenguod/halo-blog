@@ -11,6 +11,7 @@
 
 ### 最新
 
+* [基于docker实现mysql主从复制](https://www.chenmx.net?p=342)
 * [k3s重启后无法使用](https://www.chenmx.net?p=360)
 * [记录一次nginx不生效的问题](https://www.chenmx.net?p=359)
 * [HashMap源码学习](https://www.chenmx.net?p=331)
@@ -42,7 +43,6 @@
 * [nacos总是加载本地的nacos，而不是加载配置文件的地址](https://www.chenmx.net?p=306)
 * [利用docker搭建ELK.md](https://www.chenmx.net?p=340)
 * [留言板](https://www.chenmx.net?p=343)
-* [基于docker实现mysql主从复制.md](https://www.chenmx.net?p=342)
 * [SpringBoot打包成jar之后在Linux执行，然后删除jar，会发生什么?](https://www.chenmx.net?p=335)
 * [Java实现友链管理的思路及demo](https://www.chenmx.net?p=337)
 * [添加Content Security Policy请求头](https://www.chenmx.net?p=339)
