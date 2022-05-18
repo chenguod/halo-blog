@@ -11,6 +11,7 @@
 
 ### 最新
 
+* [JVM-深入学习字符串常量池](https://www.chenmx.net?p=143)
 * [HashMap源码学习](https://www.chenmx.net?p=331)
 * [Spring加载Bean的几种方式](https://www.chenmx.net?p=358)
 * [垃圾回收器](https://www.chenmx.net?p=328)
@@ -103,7 +104,6 @@
 * [@Autowired和@Resource的使用](https://www.chenmx.net?p=9)
 * [@SpringBootApplication的使用](https://www.chenmx.net?p=3)
 * [简单学习下Java的编译过程](https://www.chenmx.net?p=141)
-* [JVM-深入学习字符串常量池](https://www.chenmx.net?p=143)
 * [造成慢SQL可能的原因](https://www.chenmx.net?p=318)
 * [线上问题排查总结](https://www.chenmx.net?p=322)
 * [JVM运行时数据区-本地方法栈](https://www.chenmx.net?p=129)
