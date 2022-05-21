@@ -11,6 +11,7 @@
 
 ### 最新
 
+* [RabbitMQ学习](https://www.chenmx.net?p=359)
 * [JVM-深入学习字符串常量池](https://www.chenmx.net?p=143)
 * [HashMap源码学习](https://www.chenmx.net?p=331)
 * [Spring加载Bean的几种方式](https://www.chenmx.net?p=358)
