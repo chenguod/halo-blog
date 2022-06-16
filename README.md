@@ -11,6 +11,7 @@
 
 ### 最新
 
+* [halo博客最小的粉丝诞生了](https://www.chenmx.net?p=365)
 * [ConcurrentHashMap学习](https://www.chenmx.net?p=363)
 * [反射学习](https://www.chenmx.net?p=362)
 * [万恶之源-极乐净土](https://www.chenmx.net?p=361)
