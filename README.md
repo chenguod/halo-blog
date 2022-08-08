@@ -11,6 +11,7 @@
 
 ### 最新
 
+* [Java有序性案例](https://www.chenmx.net?p=366)
 * [halo博客最小的粉丝诞生了](https://www.chenmx.net?p=365)
 * [ConcurrentHashMap学习](https://www.chenmx.net?p=363)
 * [反射学习](https://www.chenmx.net?p=362)
