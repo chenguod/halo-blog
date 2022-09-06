@@ -11,6 +11,7 @@
 
 ### 最新
 
+* [站长工具使用](https://www.chenmx.net?p=273)
 * [Java有序性案例](https://www.chenmx.net?p=366)
 * [halo博客最小的粉丝诞生了](https://www.chenmx.net?p=365)
 * [ConcurrentHashMap学习](https://www.chenmx.net?p=363)
@@ -127,7 +128,6 @@
 * [MySQL索引优化order by与group by](https://www.chenmx.net?p=324)
 * [MySQL索引下推探索](https://www.chenmx.net?p=323)
 * [MySQL事务学习](https://www.chenmx.net?p=319)
-* [站长工具使用](https://www.chenmx.net?p=273)
 * [SpringBoot自动装配探索](https://www.chenmx.net?p=311)
 * [记录前端开发过程中遇到的一个问题](https://www.chenmx.net?p=305)
 * [halo博客主题美化](https://www.chenmx.net?p=132)
