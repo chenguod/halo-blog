@@ -11,6 +11,7 @@
 
 ### 最新
 
+* [QNAS MariaDB 远程登录配置](https://www.chenmx.net?p=368)
 * [jvm参数学习](https://www.chenmx.net?p=367)
 * [站长工具使用](https://www.chenmx.net?p=273)
 * [Java有序性案例](https://www.chenmx.net?p=366)
