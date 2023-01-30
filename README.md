@@ -11,6 +11,7 @@
 
 ### 最新
 
+* [详解Linux中grep语法和用法！](https://www.chenmx.net?p=369)
 * [QNAS MariaDB 远程登录配置](https://www.chenmx.net?p=368)
 * [jvm参数学习](https://www.chenmx.net?p=367)
 * [站长工具使用](https://www.chenmx.net?p=273)
