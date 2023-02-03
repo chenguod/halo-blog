@@ -11,8 +11,11 @@
 
 ### 最新
 
-* [详解Linux中grep语法和用法！](https://www.chenmx.net?p=369)
+* [（转载）新来了个同事，设计模式用的是真优雅呀！代码如诗！！.md](https://www.chenmx.net?p=370)
+* [docker-compose教程（安装，使用, 快速入门）](https://www.chenmx.net?p=23)
+* [(转载)常用正则表达式最强整理（速查手册）](https://www.chenmx.net?p=100)
 * [QNAS MariaDB 远程登录配置](https://www.chenmx.net?p=368)
+* [详解Linux中grep语法和用法！](https://www.chenmx.net?p=369)
 * [jvm参数学习](https://www.chenmx.net?p=367)
 * [站长工具使用](https://www.chenmx.net?p=273)
 * [Java有序性案例](https://www.chenmx.net?p=366)
@@ -135,12 +138,10 @@
 * [记录前端开发过程中遇到的一个问题](https://www.chenmx.net?p=305)
 * [halo博客主题美化](https://www.chenmx.net?p=132)
 * [统计](https://www.chenmx.net?p=243)
-* [(转载)常用正则表达式最强整理（速查手册）](https://www.chenmx.net?p=100)
 * [休闲](https://www.chenmx.net?p=140)
 * [记录下利用jenkins自动化构建中一些优化的东东](https://www.chenmx.net?p=66)
 * [空调房](https://www.chenmx.net?p=137)
 * [记录下为自己的毒蘑菇博客添加https](https://www.chenmx.net?p=65)
-* [docker-compose教程（安装，使用, 快速入门）](https://www.chenmx.net?p=23)
 
 
 
