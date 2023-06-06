@@ -11,6 +11,7 @@
 
 ### 最新
 
+* [方法不会覆盖或实现超类型的方法](https://www.chenmx.net?p=372)
 * [MySQL索引原理探索](https://www.chenmx.net?p=310)
 * [修改nextcloud上传大小限制](https://www.chenmx.net?p=371)
 * [（转载）新来了个同事，设计模式用的是真优雅呀！代码如诗！！.md](https://www.chenmx.net?p=370)
