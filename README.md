@@ -11,6 +11,7 @@
 
 ### 最新
 
+* [orElse和orElseGet的区别](https://www.chenmx.net?p=375)
 * [ThreadLocal使用踩坑日记](https://www.chenmx.net?p=374)
 * [方法不会覆盖或实现超类型的方法](https://www.chenmx.net?p=372)
 * [MySQL索引原理探索](https://www.chenmx.net?p=310)
